@@ -1,2 +1,2 @@
-# Uri-Questions-Python
-Some Solved Uri Questions in python
+# BeeCrowd-Questions-Python
+Some BeeCrowd questions solved in python
